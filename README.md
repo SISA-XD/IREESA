@@ -1,2 +1,6 @@
 <h1 align=> DUMP❤️‍🩹</h1>
-**git clone 
+**rm -rf IREESA**
+**git clone https://github.com/SISA-XD/IREESA.git**
+**cd IREESA**
+**git pull**
+**python3 IREESA-DUMP.py**
